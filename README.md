@@ -11,6 +11,7 @@ Fonemizer is use to convert Indonesian sentences into ARPABET
 - Initialization
 
   `from fonem import *`
+  
   `converter = IndoARPA(separator=' ', res_ipa=True)`
 - Convert Indo -> ARPABET
 
