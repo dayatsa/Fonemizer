@@ -2,8 +2,10 @@
 Fonemizer is use to convert Indonesian sentences into ARPABET
 
 ### Requirement
-- arpabetandipaconvertor ([Source Code])(https://github.com/chdzq/ARPAbetAndIPAConvertor)
+- arpabetandipaconvertor [Source Code](https://github.com/chdzq/ARPAbetAndIPAConvertor)
+
   `pip install -r requirements.txt`
+
 
 ### Example
 - Initialization
